@@ -36,3 +36,7 @@ Program for this optimization submitted in the source code file.
 # Conclusion
 
 Please find the source code files from the source section along with the test files used for testing which maps to given scale in the problem statement.
+
+HashImpl.py: Contains the code with Hash Table as data structure
+TrieImpl.py: Contains the code with Trie as Data Structure
+ParallelProcessing.py: Contains the code with Hash Table as data structure and with input file being processed in parallel to speed up things.
